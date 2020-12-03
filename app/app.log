@@ -1,0 +1,9 @@
+[2020-Dec-03 19:22:20] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 19:22:20] Exception: 'GradientBoostingRegressor' object has no attribute 'predict_proba'
+[2020-Dec-03 19:22:59] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 19:23:35] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 19:23:39] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 19:24:39] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 19:26:21] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 19:26:54] Data: totsp=40, livesp=20, dist=3,                    metrdist=5, walk=1, brick=1, floor=1, code=6
+[2020-Dec-03 20:05:59] Data: totsp=45, livesp=25, dist=5,                    metrdist=25, walk=1, brick=1, floor=1, code=4
